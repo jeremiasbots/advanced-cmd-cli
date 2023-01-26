@@ -1,6 +1,6 @@
 {
   "name": "advanced-cmd-cli",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "advanced-cmd CLI",
   "main": "index.js",
   "bin": "index.js",
