@@ -1,0 +1,21 @@
+{
+  "name": "advanced-cmd-cli",
+  "version": "1.0.4",
+  "description": "advanced-cmd CLI",
+  "main": "index.js",
+  "bin": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": [],
+  "author": "JeremiasBots#2622",
+  "license": "ISC",
+  "dependencies": {
+    "advanced-cmd": "^1.0.1",
+    "commander": "^10.0.0",
+    "fs-extra": "^11.1.0"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
